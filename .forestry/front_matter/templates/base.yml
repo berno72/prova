@@ -8,3 +8,5 @@ fields:
 - type: image_gallery
   name: pluto
   label: pluto
+pages:
+- content/provino.md
