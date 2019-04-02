@@ -1,4 +1,10 @@
 ---
 label: base
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: pippo
+  label: pippo
+- type: image_gallery
+  name: pluto
+  label: pluto
